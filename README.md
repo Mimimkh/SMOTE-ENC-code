@@ -1,5 +1,15 @@
 This repository contains reproducible solution for The SMOTE-ENC project
 
+1. Do setup
+2. Run jupyter notebooks from `nnotebooks` folder
+
+
+## Setup
+
+### Development environment
+
+`conda env create --file environment.yml`
+
 ## Directory strcuture
 
     .
